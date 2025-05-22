@@ -108,4 +108,4 @@ async def ticket_panel(interaction: discord.Interaction):
     await interaction.channel.send(embed=embed, view=TicketView())
     await interaction.response.send_message("✅ Ticket panel sent!", ephemeral=True)
 
-bot.run(os.getenv("TOKEN"))
+bot.run(os.getenv("MTM3NDcwNjEzMTE5MjExOTMxNg.Gnvgpn.mBbPSb9TvoAFcxFDeK0VmmqSWouAlkXiSVfiR0"))
